@@ -1,4 +1,4 @@
-**Name:** Jessica Batbayar
+**Name:** Jessica Batbayar  
 **Email:** jbatbayar@ucsd.edu  
 **Section:** A04  
 **Mentor:** Biwei Huang
